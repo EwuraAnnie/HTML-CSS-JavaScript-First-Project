@@ -1,0 +1,45 @@
+body{
+    background-color: purple;
+}
+section{
+    background-color: rgb(250, 208, 208);
+    height: 23rem;
+    width: 42rem;
+    margin: 15rem 0 0 36rem;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+}
+h1{
+    color: purple;
+    text-shadow: 5px 2px 6px rgb(77, 77, 77);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* margin: 0 0 15rem 0; */
+}
+p{
+    font-size: 25px;
+    font-weight: 600;
+}
+#input{
+    height: 2.5rem;
+    width: 19rem;
+    background: white;
+    border-radius: 5px;  
+    border: none;
+    box-shadow: 3px 3px 6px rgb(149, 149, 149);
+}
+button{
+    height: 2.6rem;
+    width: 8rem;
+    border-radius: 16px;
+    border: none;
+    box-shadow: 3px 3px 6px rgb(149, 149, 149);
+    font-size: 16px;
+    font-weight: 600;
+}
+button:hover{
+    background-color: purple;
+    color: white;
+}
+
